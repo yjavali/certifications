@@ -24,17 +24,35 @@ This repository reflects my dedication to continuous learning and professional g
 
 Below is a list of certifications I have earned, categorised for clarity.
 
+### **Research Integrity**
+- **Research Integrity Certification**
+  - **Issuing Organisation:** Epigeum (via University of Warwick)
+  - **Date of Achievement:** *18 April 2024*
+  - [View Certificate](./certificates/research_integrity_certificate.pdf)
+
 ### **Language Proficiency**
 - **IELTS Certification**
   - **Issuing Organisation:** British Council
   - **Date of Achievement:** *6 May 2023*
   - [View Certificate](./certificates/ielts_certificate.pdf)
 
+### **Software Development**
+- **Clean Code Certification**
+  - **Issuing Organisation:** Udemy (via Aptean)
+  - **Date of Achievement:** *15 December 2022*
+  - [View Certificate](./certificates/clean_code_certificate.pdf)
+
 ### **Cloud Computing**
 - **Microsoft Azure Fundamentals (AZ-900)**
   - **Issuing Organisation:** Microsoft
   - **Date of Achievement:** *7 November 2019*
   - [View Certificate](./certificates/azure_az900_certificate.pdf)
+
+### **Networking**
+- **Juniper JNCIA - Junos**
+  - **Issuing Organisation:** Juniper Networks
+  - **Date of Achievement:** *23 October 2019*
+  - [View Certificate](./certificates/jncia_junos_certificate.pdf)
 
 ---
 
@@ -51,8 +69,11 @@ Each certificate is uploaded as a PDF in the `certificates/` directory of this r
 .
 |-- README.md              # Overview of this repository
 |-- certificates/          # Folder containing certification files
+    |-- research_integrity_certificate.pdf
     |-- ielts_certificate.pdf
+    |-- clean_code_certificate.pdf
     |-- azure_az900_certificate.pdf
+    |-- jncia_junos_certificate.pdf
 ```
 
 ---
