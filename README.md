@@ -11,6 +11,10 @@ This project serves as a centralised and reliable archive for my professional ce
 
 This repository reflects my dedication to continuous learning and professional growth.
 
+**Privacy Note:** To protect privacy, certain sensitive details such as Candidate IDs and Date of Birth have been obscured in uploaded certificates where necessary.
+
+**Background Verification:** Organisations may refer to the contents of this repository for background verification purposes **only after obtaining explicit consent** from the repository owner.
+
 ---
 
 ## **Purpose of This Repository**
@@ -68,6 +72,7 @@ Each certificate is uploaded as a PDF in the `certificates/` directory of this r
 ```
 .
 |-- README.md              # Overview of this repository
+|-- LICENSE.md             # Licensing information
 |-- certificates/          # Folder containing certification files
     |-- research_integrity_certificate.pdf
     |-- ielts_certificate.pdf
@@ -87,7 +92,9 @@ If you have any questions or would like to verify my certifications, feel free t
 ---
 
 ## **Disclaimer**
-This repository and its contents are provided for personal archival purposes only. Redistribution, copying, or reuse of the content in this repository is strictly prohibited without my explicit written consent.
+This repository and its contents are provided for personal archival and verification purposes. To protect privacy, certain sensitive details such as Candidate IDs and Date of Birth have been obscured. Organisations may refer to the content for background verification purposes.
+
+For licensing and usage restrictions, please refer to the [LICENSE.md](./LICENSE.md) file.
 
 ---
 
